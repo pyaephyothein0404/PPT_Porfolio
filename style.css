@@ -55,7 +55,7 @@ header {
     /* Position image absolutely to fill background */
     top: 0;
     left: 0;
-    width: 90%;
+    width: 100%;
     /* Make image responsive */
     height: 100%;
     /* Make image fill container height */
