@@ -84,12 +84,12 @@ header {
     /* Center menu items */
     position: absolute;
     /* Position absolutely at the top */
-    top: 10px;
-    left: 50%;
+    top: 58%;
+    left: 18%;
     transform: translateX(-50%);
     z-index: 1;
     /* Place menu above image */
-    background-color: rgba(171, 171, 171, 0.12);
+    background-color: rgba(171, 171, 171, 0.02);
     /* Semi-transparent background for readability */
     border-radius: 10px;
     margin: 0;
